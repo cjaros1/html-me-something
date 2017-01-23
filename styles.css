@@ -493,3 +493,51 @@ template {
 [hidden] {
   display: none;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* All code above was the added normalization CSS code, all below is my own code */
+
+img{
+	height:100px;
+	width:100px;
+	
+}
+
+#img1{
+	align:center;
+	border: 3px solid red;
+}
+
+#img2{
+	align:right;
+	border: 5px dashed green;
+}
+
+article{
+	margin:10px;
+	padding:30px;
+	
+}
